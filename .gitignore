@@ -1,0 +1,20 @@
+# Ignore arquivos de compilação
+/build/
+/dist/
+
+# Ignore arquivos
+DrContabil.db
+*.log
+*.pbix
+*.csv
+*.jpg
+*.xlsx
+*.zip
+*.pdf
+*.DrContabil
+*.spec
+*.doc
+
+# Ignore pastas específicas
+.vscode/
+__pycache__/

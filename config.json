@@ -1,0 +1,8 @@
+{
+    "DRIVER": "ODBC Driver for Sybase",
+    "SERVER": "localhost",
+    "PORT": "2638",
+    "DATABASE": "contabil",
+    "UID": "TI",
+    "PWD": "123456Mudar"
+}
