@@ -3,11 +3,11 @@
 /dist/
 
 # Ignore arquivos
-DrContabil.db
+*.db
 *.log
 *.pbix
 *.csv
-*.jpg
+*.jpg 
 *.xlsx
 *.zip
 *.pdf
